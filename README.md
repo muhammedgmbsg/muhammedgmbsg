@@ -33,5 +33,5 @@ I specialize in mobile application development and am actively working on variou
 - OpenCV  
  
 ## Contact Me
-** 📧 Email: muhammedgmsbg@gmail.com
-** 💼 LinkedIn: [linkedin.com/in/muhammedgmsbg](https://www.linkedin.com/in/muhammed-g%C3%BCm%C3%BC%C5%9Fbo%C4%9Fa-a88a53221/)
+- 📧 Email: muhammedgmsbg@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/muhammedgmsbg](https://www.linkedin.com/in/muhammed-g%C3%BCm%C3%BC%C5%9Fbo%C4%9Fa-a88a53221/)
