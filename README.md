@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hello, I'm Muhammed Gümüşboğa
 
-<!--
-**muhammedgmbsg/muhammedgmbsg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a graduate of **Fırat University, Department of Software Engineering**.  
+I specialize in mobile application development and am actively working on various projects in this field.
 
-Here are some ideas to get you started:
+## 💼 Areas of Expertise
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📱 Mobile App Development (Flutter)
+- 🎨 Responsive UI Design
+- 📦 State Management (GetX, Provider, Riverpod)
+- 🧱 Layered Architecture
+- 🌐 RESTful API Integration
+- 🔔 Push Notification Systems
+- 🛒 Payment System Integration
+- 🤖 Artificial Intelligence & Deep Learning
+- 🧠 Image Processing and Model Integration
+
+## 🚀 Publishing Experience
+
+- ✅ Publishing apps on both Google Play Store & Apple App Store
+- ✅ Live integrations with in-app purchases and payment systems
+
+## 🛠️ Technologies I Use
+
+- Flutter  
+- Dart  
+- SwiftUI  
+- Firebase  
+- SQLite  
+- Python  
+- Flask  
+- TensorFlow  
+- OpenCV  
+ 
+Contact Me
+📧 Email: muhammedgmsbg@gmail.com
+
+💼 LinkedIn: linkedin.com/in/muhammedgmsbg
