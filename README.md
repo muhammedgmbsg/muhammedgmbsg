@@ -32,7 +32,6 @@ I specialize in mobile application development and am actively working on variou
 - TensorFlow  
 - OpenCV  
  
-Contact Me
+## Contact Me
 📧 Email: muhammedgmsbg@gmail.com
-
 💼 LinkedIn: linkedin.com/in/muhammedgmsbg
