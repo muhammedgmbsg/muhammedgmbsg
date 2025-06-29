@@ -22,15 +22,11 @@ I specialize in mobile application development and am actively working on variou
 
 ## 🛠️ Technologies I Use
 
-- Flutter  
-- Dart  
-- SwiftUI  
-- Firebase  
-- SQLite  
-- Python  
-- Flask  
-- TensorFlow  
-- OpenCV  
+- **Programming Languages:** Java, C#, Dart, Swift, Python, JavaScript  
+- **Frameworks & Libraries:** Flutter, .NET / ASP.NET, Node.js  
+- **Databases:** MySQL, MongoDB, Firebase  
+- **AI & ML Tools:** TensorFlow, OpenCV  
+- **Others:** REST APIs, Git, Firebase, OOP, SOLID, MVC, MVVM  
  
 ## Contact Me
 - 📧 Email: muhammedgmsbg@gmail.com
